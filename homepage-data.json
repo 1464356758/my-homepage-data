@@ -1,25 +1,20 @@
 {
   "personalInfo": {
-    "name": "张三",
-    "avatar": "哈哈哈",
+    "name": "冯配强",
+    "avatar": "https://s41.ax1x.com/2026/05/22/pmppqiT.jpg",
     "bio": "欢迎来到我的主页",
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com"
-      },
-      {
-        "label": "博客",
-        "url": "https://example.com"
-      }
-    ],
+    "links": [],
     "tags": [
-      "嘎嘎嘎"
+      "Photoshop",
+      "Premiere",
+      "Office",
+      "剪映",
+      "按键精灵"
     ],
-    "email": "哈哈哈哈哈",
-    "phone": "",
-    "wechat": "八八八八八八八",
-    "resumeUrl": ""
+    "email": "1464356758@qq.com",
+    "phone": "18033150689",
+    "wechat": "18033150689",
+    "resumeUrl": "https://www.kdocs.cn/l/cbZ4YRwoRMEQ"
   },
   "cards": [
     {
