@@ -9,7 +9,12 @@
       "Premiere",
       "Office",
       "剪映",
-      "按键精灵"
+      "按键精灵",
+      "学习能力",
+      "整合能力",
+      "优化能力",
+      "c1驾驶证",
+      "电工证"
     ],
     "email": "1464356758@qq.com",
     "phone": "18033150689",
@@ -34,12 +39,12 @@
       "id": "c6",
       "type": "text",
       "content": {
-        "text": "新文字灌灌灌灌灌"
+        "text": "PS 转手绘处理：基础修图 → 提取线稿 → 添加轻微笔触纹理 → 图层融合 → 整体调色，营造自然、不夸张的手绘质感。\n\n\nAI提示词：水墨简笔画风 + 水彩泼墨 + 极简人像插画 + 保留人物辨识度 + 红色玫瑰元素 + 留白构图 + 黑灰线稿 + 鲜艳红色点缀 + 高级时尚海报风 + 手绘签名融合 + 中国风艺术感"
       },
       "layout": {
-        "col": 0,
-        "row": 12,
-        "width": 1,
+        "col": 2,
+        "row": 7,
+        "width": 2,
         "height": 1
       }
     },
@@ -80,6 +85,122 @@
         "row": 0,
         "width": 2,
         "height": 5
+      }
+    },
+    {
+      "id": "c6",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmpGwAx.png"
+      },
+      "layout": {
+        "col": 2,
+        "row": 5,
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": "c7",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmp856J.png"
+      },
+      "layout": {
+        "col": 0,
+        "row": 5,
+        "width": 2,
+        "height": 5
+      }
+    },
+    {
+      "id": "c8",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmpG0N6.png"
+      },
+      "layout": {
+        "col": 2,
+        "row": 8,
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": "c9",
+      "type": "video",
+      "content": {
+        "bilibiliUrl": "https://www.bilibili.com/video/BV1kK4y177d2/?spm_id_from=333.337.search-card.all.click&vd_source=288413c367426ccedb98f32207002826",
+        "url": "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/40/59/248965940/248965940-1-192.mp4?e=ig8euxZM2rNcNbNBnWdVhwdlhbUHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&deadline=1779451771&nbs=1&mid=0&oi=1385955528&gen=playurlv3&os=estgoss&og=ali&uipk=5&trid=22b71f886e454f63868a4d54b275148O&upsig=f75b444f6dd1b7fad03d07f55f7fbf98&uparams=e,platform,deadline,nbs,mid,oi,gen,os,og,uipk,trid&bvc=vod&nettype=1&bw=2074395&agrr=1&buvid=&build=7330300&dl=0&f=O_0_0&orderid=0,3",
+        "title": "风犬少年的天空之追光者MV",
+        "poster": "https://i1.hdslb.com/bfs/archive/f9d90d1862edbbac9e9a18284f35ac5f4be22c90.jpg",
+        "lastResolved": 1779445408227
+      },
+      "layout": {
+        "col": 0,
+        "row": 12,
+        "width": 4,
+        "height": 2
+      }
+    },
+    {
+      "id": "c10",
+      "type": "text",
+      "content": {
+        "text": "以下是早期自学完成的视频剪辑作品，主要通过歌词与电影情节融合剪辑的方式进行内容创作，注重情绪表达、画面节奏与故事连贯性。熟练使用 PR（Premiere Pro） 进行视频剪辑、转场、字幕、音频节奏处理，以及使用 剪映 完成特效、卡点、调色与短视频优化，能够独立完成视频内容的剪辑与包装。"
+      },
+      "layout": {
+        "col": 0,
+        "row": 10,
+        "width": 4,
+        "height": 1
+      }
+    },
+    {
+      "id": "c11",
+      "type": "text",
+      "content": {
+        "text": "\n"
+      },
+      "layout": {
+        "col": 0,
+        "row": 18,
+        "width": 4,
+        "height": 1
+      }
+    },
+    {
+      "id": "c12",
+      "type": "video",
+      "content": {
+        "bilibiliUrl": "https://www.bilibili.com/video/BV13P4y147CX/?spm_id_from=333.1387.homepage.video_card.click&vd_source=288413c367426ccedb98f32207002826",
+        "url": "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/23/81/371038123/371038123-1-208.mp4?e=ig8euxZM2rNcNbhjnwdVhwdlhzT3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&platform=html5&trid=fcd474018d5d4f3f882fce233d5feb5O&nbs=1&gen=playurlv3&og=hw&mid=0&deadline=1779453471&oi=2067347262&os=estghw&upsig=74e996a4753e27cd79aad7f8997cd449&uparams=e,uipk,platform,trid,nbs,gen,og,mid,deadline,oi,os&bvc=vod&nettype=1&bw=2947119&agrr=1&buvid=&build=7330300&dl=0&f=O_0_0&orderid=0,3",
+        "title": "你觉得是在那个时候他变成了他最讨厌的样子的呢？（完整版）",
+        "poster": "https://i1.hdslb.com/bfs/archive/c44b31be15dac375f016373348c4397720b58ffa.jpg",
+        "lastResolved": 1779446271968
+      },
+      "layout": {
+        "col": 0,
+        "row": 14,
+        "width": 4,
+        "height": 2
+      }
+    },
+    {
+      "id": "c13",
+      "type": "video",
+      "content": {
+        "bilibiliUrl": "https://www.bilibili.com/video/BV1pV411v71U/?spm_id_from=333.1387.upload.video_card.click&vd_source=288413c367426ccedb98f32207002826",
+        "url": "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/32/05/304100532/304100532-1-192.mp4?e=ig8euxZM2rNcNbNM7zdVhwdlhbKahwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&oi=144233936&platform=html5&mid=0&deadline=1779453739&nbs=1&trid=7ca1f99348a3454e9a566e7ddab2540O&uipk=5&gen=playurlv3&os=cosbv&og=hw&upsig=02c78bb83a7efeeb78ea6b611fe349da&uparams=e,oi,platform,mid,deadline,nbs,trid,uipk,gen,os,og&bvc=vod&nettype=1&bw=1977139&f=O_0_0&agrr=1&buvid=&build=7330300&dl=0&orderid=0,3",
+        "title": "错位时空的周星驰。你觉得他有没有遗憾呢？",
+        "poster": "https://i0.hdslb.com/bfs/archive/dbfca1ab899bcda540b599597c5160d8bdd6eec8.jpg",
+        "lastResolved": 1779446540199
+      },
+      "layout": {
+        "col": 0,
+        "row": 16,
+        "width": 4,
+        "height": 2
       }
     }
   ]
