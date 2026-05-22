@@ -103,7 +103,7 @@
       },
       "layout": {
         "col": 0,
-        "row": 10,
+        "row": 12,
         "width": 1,
         "height": 1
       }
@@ -132,6 +132,23 @@
         "row": 4,
         "width": 1,
         "height": 1
+      }
+    },
+    {
+      "id": "c9",
+      "type": "video",
+      "content": {
+        "bilibiliUrl": "https://www.bilibili.com/video/BV1kK4y177d2/?spm_id_from=333.337.search-card.all.click",
+        "url": "https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/40/59/248965940/248965940-1-192.mp4?e=ig8euxZM2rNcNbNBnWdVhwdlhbUHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&oi=1697279245&platform=html5&deadline=1779438496&nbs=1&gen=playurlv3&trid=0c4a08310ef34ea6b5832cbaf152cebh&os=estgoss&og=ali&mid=0&uipk=5&upsig=e9c14a1ce3a3927a5dc4237f293892fa&uparams=e,oi,platform,deadline,nbs,gen,trid,os,og,mid,uipk&bvc=vod&nettype=0&bw=2074395&dl=0&f=h_0_0&agrr=1&buvid=&build=0&orderid=0,1",
+        "title": "风犬少年的天空之追光者MV",
+        "poster": "http://i1.hdslb.com/bfs/archive/f9d90d1862edbbac9e9a18284f35ac5f4be22c90.jpg",
+        "lastResolved": 1779431296913
+      },
+      "layout": {
+        "col": 0,
+        "row": 7,
+        "width": 4,
+        "height": 5
       }
     }
   ]
