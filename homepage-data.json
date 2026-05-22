@@ -160,7 +160,7 @@
       "id": "c11",
       "type": "text",
       "content": {
-        "text": "\n"
+        "text": "以下为 AI 视频制作作品，系统学习过 AI 内容创作与视频生成技术，具备完整的 AI 视频制作思路与落地能力。曾从事 抖音 AI 特效师 相关工作，参与 AI 特效创作与视觉内容优化。熟悉运用 即梦AI、像素（PixVerse）、Stable Diffusion 等 AI 工具 进行文生图、图生视频、角色风格统一、运镜、特效生成与内容包装，能够独立完成 AI 视频创意、生成、剪辑及优化全流程。"
       },
       "layout": {
         "col": 0,
@@ -175,7 +175,7 @@
       "content": {
         "bilibiliUrl": "https://www.bilibili.com/video/BV13P4y147CX/?spm_id_from=333.1387.homepage.video_card.click&vd_source=288413c367426ccedb98f32207002826",
         "url": "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/23/81/371038123/371038123-1-208.mp4?e=ig8euxZM2rNcNbhjnwdVhwdlhzT3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&platform=html5&trid=fcd474018d5d4f3f882fce233d5feb5O&nbs=1&gen=playurlv3&og=hw&mid=0&deadline=1779453471&oi=2067347262&os=estghw&upsig=74e996a4753e27cd79aad7f8997cd449&uparams=e,uipk,platform,trid,nbs,gen,og,mid,deadline,oi,os&bvc=vod&nettype=1&bw=2947119&agrr=1&buvid=&build=7330300&dl=0&f=O_0_0&orderid=0,3",
-        "title": "你觉得是在那个时候他变成了他最讨厌的样子的呢？（完整版）",
+        "title": "你觉得是在那个时候他变成了他最讨厌的样子的呢？（完整版）\n\n你觉得是在那个时候他变成了他最讨厌的样子的呢？（完整版）",
         "poster": "https://i1.hdslb.com/bfs/archive/c44b31be15dac375f016373348c4397720b58ffa.jpg",
         "lastResolved": 1779446271968
       },
@@ -192,13 +192,107 @@
       "content": {
         "bilibiliUrl": "https://www.bilibili.com/video/BV1pV411v71U/?spm_id_from=333.1387.upload.video_card.click&vd_source=288413c367426ccedb98f32207002826",
         "url": "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/32/05/304100532/304100532-1-192.mp4?e=ig8euxZM2rNcNbNM7zdVhwdlhbKahwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&oi=144233936&platform=html5&mid=0&deadline=1779453739&nbs=1&trid=7ca1f99348a3454e9a566e7ddab2540O&uipk=5&gen=playurlv3&os=cosbv&og=hw&upsig=02c78bb83a7efeeb78ea6b611fe349da&uparams=e,oi,platform,mid,deadline,nbs,trid,uipk,gen,os,og&bvc=vod&nettype=1&bw=1977139&f=O_0_0&agrr=1&buvid=&build=7330300&dl=0&orderid=0,3",
-        "title": "错位时空的周星驰。你觉得他有没有遗憾呢？",
+        "title": "错位时空的周星驰。你觉得他有没有遗憾呢？\n\n错位时空的周星驰。你觉得他有没有遗憾呢？",
         "poster": "https://i0.hdslb.com/bfs/archive/dbfca1ab899bcda540b599597c5160d8bdd6eec8.jpg",
         "lastResolved": 1779446540199
       },
       "layout": {
         "col": 0,
         "row": 16,
+        "width": 4,
+        "height": 2
+      }
+    },
+    {
+      "id": "c14",
+      "type": "video",
+      "content": {
+        "bilibiliUrl": "https://v.douyin.com/fN79cwiUf2g/",
+        "url": "https://v6-dy.ixigua.com/fe0e7eebdca0e8578e9802402dd1c774/6a105398/video/tos/cn/tos-cn-ve-15c000-ce/o4JjJTBD4e4QBoX7sxRA9pAQRDg8k9TeeGvg8M/?a=0&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=1012&bt=1012&cs=0&ds=3&ft=aT_7TQQqUuIf_oZmo0OW_QYaUqiXwC7T9VJEn_dWcbPD-Ipz&mime_type=video_mp4&qs=0&rc=OWg6OmQ0ZWk7OTNkZzRkZkBpamY7a3Q5cjozOjMzbGkzNUBiMDRjL2M1NS4xYDQvM2FgYSNgczBjMmRrcmNhLS1kLTVzcw%3D%3D&btag=80000e00010000&cquery=106H&dy_q=1779451252&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202605222000526C99E55D20EC24B46E6B&playAddrKey=v2800fgi0000d7f0u7nog65qfh38vccg&ai=1",
+        "title": "一起去野吧！#这夏放心去野吧 #热榜 #舞蹈 #AI #AI特效",
+        "poster": "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/ocGQYDZ7IeeBQLvFhehM8Js79xAXAABgAb5TQD~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780660800&x-signature=QyIO5I5eQ%2BTx2F%2FcoLNZTWSKMF8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=aweme_video&l=20260522200051EF42DADD4BA22233F37B&time=1776160710",
+        "lastResolved": 1779452603674
+      },
+      "layout": {
+        "col": 0,
+        "row": 19,
+        "width": 2,
+        "height": 3
+      }
+    },
+    {
+      "id": "c15",
+      "type": "text",
+      "content": {
+        "text": "新文字"
+      },
+      "layout": {
+        "col": 0,
+        "row": 25,
+        "width": 4,
+        "height": 1
+      }
+    },
+    {
+      "id": "c16",
+      "type": "video",
+      "content": {
+        "bilibiliUrl": "https://v.douyin.com/buw0escd2n8/",
+        "url": "https://v11-cold.douyinvod.com/9f72755c920f8777f0db049074fa0eac/6a10755c/video/tos/cn/tos-cn-ve-15c000-ce/ogEAdIiBhIBqhyQAY8uwfEix1JEpes7EnBoHRB/?a=6383&br=1400&bt=1400&btag=c0000e00008000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1779452706&feature_id=f0150a16a324336cda5d6dd0b69ed299&ft=LjhJEL998xztuo0mo0P5XEhX.xiXFp7T9VJE3sZ3jCPD-Ipz&is_ssr=1&l=20260522202506E213ED80EACFED444578&lr=all&mime_type=video_mp4&qs=0&rc=aTpmaWk1M2c1ZDNnZzU2OUBpMzRna2w5cmpoOzMzbGkzNUAxMDY2MDU1XmExYmMwLmMtYSNybzRsMmRzbDFhLS1kLTRzcw%3D%3D",
+        "title": " 慢下来，赴一场人间风花雪月，揽清风入怀，拥温柔度日#古风仙气美女 #穿汉服这么拍仙气十足 #AI画舫噙花媚眼传情 #随变ai随便玩 #抖音ai创作",
+        "poster": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-0813c000-ce/o8nLBd3eOEHoA7dEi1HwRYB1imfAACEAAIjIAq?biz_tag=pcweb_cover&from=327834062_large&lk3s=138a59ce&s=PackSourceEnum_AWEME_DETAIL&sc=dynamic_cover&se=false&x-expires=1780660800&x-signature=SHPG9cf0ewr3kKbGu4a3QTIIxig%3D",
+        "lastResolved": 1779452708026
+      },
+      "layout": {
+        "col": 2,
+        "row": 19,
+        "width": 2,
+        "height": 3
+      }
+    },
+    {
+      "id": "c17",
+      "type": "video",
+      "content": {
+        "bilibiliUrl": "https://v.douyin.com/tFdHtLNB6cs/",
+        "url": "https://v5-cold.douyinvod.com/2058504beca03008a8b61c8c009a096a/6a10757c/video/tos/cn/tos-cn-ve-15/oAZAwEfDglDBObOFfup9AQA5Ix5W9uEnWV2aZN/?a=1128&ch=26&cr=13&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3092&bt=3092&cs=0&ds=6&ft=8ILtMUUmf.7daD0PD1YBaUA-fmGs9fK.nBMuRkaH-SqGejVhWJ6&mime_type=video_mp4&qs=0&rc=Mzw8OTpmZjk2OGQ0NzlpOUBpamx2ZHY5cm9wOTMzNGkzM0BiXjUwMS0wXjIxYV4tYS0wYSNzYmxwMmRjYXBhLS1kLWFzcw%3D%3D&btag=c0010e0008d008&cdn_type=2&cquery=103Q_103R_103S_100b_104i&dy_q=1779452739&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260522202539780887BAFC77BB357E63&pwid=280&req_cdn_type=r&playAddrKey=v0d00fg10000d6smdlfog65ssaoseivg&ai=1",
+        "title": "“携鲜花弓箭赴一场春日之约.” #转场 #万物皆可粉嘟嘟  #粉嘟嘟ai创意大赛",
+        "poster": "https://p95-bj-sign.douyinpic.com/tos-cn-i-0813c001/oEmWufgALEAa3AzpAWAsIZE5fbACgCANoDt9uF~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780660800&x-signature=OK%2FyDrnmh09lZF1t%2BXY4PnjcdeA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=aweme_video&l=20260522202539780887BAFC77BB357E63&time=1773758184",
+        "lastResolved": 1779452740379
+      },
+      "layout": {
+        "col": 0,
+        "row": 22,
+        "width": 2,
+        "height": 3
+      }
+    },
+    {
+      "id": "c18",
+      "type": "video",
+      "content": {
+        "bilibiliUrl": "https://v.douyin.com/h22IknztISQ/",
+        "url": "https://v26-cold.douyinvod.com/a5a10d1e2a6e3141783a81415b5dddde/6a1075be/video/tos/cn/tos-cn-ve-15c000-ce/oEknJEeGQQld7RTBiMZsf4eUxD3AxIyvLZQbIg/?a=6383&br=643&bt=643&btag=80000e00008000&cd=0%7C0%7C0%7C3&ch=26&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1779452804&feature_id=f0150a16a324336cda5d6dd0b69ed299&ft=LjhJEL998xztuo0mo0P5XEhX.xiXnA7T9VJE3sZ3jCPD-Ipz&is_ssr=1&l=20260522202643012854C98D420FBA93E3&lr=all&mime_type=video_mp4&qs=0&rc=ZTVkZGk8Zzc8NzczNTszNUBpM3k3ZHM5cm1kOjMzbGkzNUAyNWBiXzFfNS0xNTIyNTIuYSNfNWJgMmRjYGxhLS1kLTVzcw%3D%3D",
+        "title": "#AI猫咪餐馆买单乌龙 #随变app #萌宠出道计划 #大橘养成记 #猫猫我啊脑瓜子嗡嗡的",
+        "poster": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-p-0015c000-ce/owoDWOc7EzSCIoFwpYfAipKfxZy9BNA8wIESTI?biz_tag=pcweb_cover&from=327834062_large&lk3s=138a59ce&s=PackSourceEnum_AWEME_DETAIL&sc=dynamic_cover&se=false&x-expires=1780660800&x-signature=7WhlDLf4WdAmF5ci%2F1qwoN5Ki2Q%3D",
+        "lastResolved": 1779452805266
+      },
+      "layout": {
+        "col": 2,
+        "row": 22,
+        "width": 2,
+        "height": 3
+      }
+    },
+    {
+      "id": "c19",
+      "type": "web",
+      "content": {
+        "url": "https://cloud.seatable.cn/dtable/links/427ff6f42256472aa3e7"
+      },
+      "layout": {
+        "col": 0,
+        "row": 26,
         "width": 4,
         "height": 2
       }
