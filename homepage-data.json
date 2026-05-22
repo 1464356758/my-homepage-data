@@ -1,1 +1,138 @@
-
+{
+  "personalInfo": {
+    "name": "张三",
+    "avatar": "哈哈哈",
+    "bio": "欢迎来到我的主页",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com"
+      },
+      {
+        "label": "博客",
+        "url": "https://example.com"
+      }
+    ],
+    "tags": [
+      "嘎嘎嘎"
+    ],
+    "email": "哈哈哈哈哈",
+    "phone": "",
+    "wechat": "八八八八八八八",
+    "resumeUrl": ""
+  },
+  "cards": [
+    {
+      "id": "c1",
+      "type": "text",
+      "content": {
+        "text": "双击编辑文字卡片呃呃呃灌灌灌灌解决"
+      },
+      "layout": {
+        "col": 0,
+        "row": 0,
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": "c2",
+      "type": "image",
+      "content": {
+        "url": "https://picsum.photos/400/300"
+      },
+      "layout": {
+        "col": 2,
+        "row": 0,
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": "c3",
+      "type": "web",
+      "content": {
+        "url": "https://example.com"
+      },
+      "layout": {
+        "col": 0,
+        "row": 2,
+        "width": 2,
+        "height": 3
+      }
+    },
+    {
+      "id": "c4",
+      "type": "video",
+      "content": {
+        "bilibiliUrl": "https://www.bilibili.com/video/BV19k5y6pELP/?spm_id_from=333.1007.tianma.1-3-3.click",
+        "url": "https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/41/19/38306381941/38306381941-1-192.mp4?e=ig8euxZM2rNcNbRahwdVhwdlhWuVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&trid=4d0357454fc44f3cb4a37f98d658785h&nbs=1&gen=playurlv3&os=08hbv&mid=0&uipk=5&deadline=1779294667&og=hw&oi=1697279245&upsig=7997f6e88255a477ce422f753a882366&uparams=e,platform,trid,nbs,gen,os,mid,uipk,deadline,og,oi&bvc=vod&nettype=0&bw=1369947&buvid=&build=0&dl=0&f=h_0_0&agrr=0&orderid=0,1",
+        "title": "封神了！4月全球剧集红榜新鲜出炉！",
+        "poster": "https://i2.hdslb.com/bfs/archive/944bb6519081a873bb0aed001ea8386435113971.jpg",
+        "lastResolved": 1779287471037
+      },
+      "layout": {
+        "col": 0,
+        "row": 5,
+        "width": 4,
+        "height": 2
+      }
+    },
+    {
+      "id": "c5",
+      "type": "video",
+      "content": {
+        "bilibiliUrl": "https://www.bilibili.com/video/BV1SNXMBiEmg/?spm_id_from=333.1007.tianma.1-2-2.click",
+        "url": "https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/42/75/37025417542/37025417542-1-192.mp4?e=ig8euxZM2rNcNbRHnWdVhwdlhWeHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&os=estgoss&mid=0&deadline=1779383563&gen=playurlv3&og=ali&nbs=1&platform=html5&trid=172abe399770432bb099f26327218d3h&uipk=5&oi=1697279245&upsig=c3c0ae19c5821d9b4a19f9eee44a37c0&uparams=e,os,mid,deadline,gen,og,nbs,platform,trid,uipk,oi&bvc=vod&nettype=0&bw=1593372&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1",
+        "title": "探访莲花创始人的家，环英国自驾解锁王室假期",
+        "poster": "https://i0.hdslb.com/bfs/archive/4c7d7e0b5c66306bda253d0a9ce8954e30c621c9.jpg",
+        "lastResolved": 1779376704794
+      },
+      "layout": {
+        "col": 2,
+        "row": 2,
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": "c6",
+      "type": "text",
+      "content": {
+        "text": "新文字灌灌灌灌灌"
+      },
+      "layout": {
+        "col": 0,
+        "row": 10,
+        "width": 1,
+        "height": 1
+      }
+    },
+    {
+      "id": "c7",
+      "type": "text",
+      "content": {
+        "text": "新文字"
+      },
+      "layout": {
+        "col": 2,
+        "row": 4,
+        "width": 1,
+        "height": 1
+      }
+    },
+    {
+      "id": "c8",
+      "type": "text",
+      "content": {
+        "text": "新文字"
+      },
+      "layout": {
+        "col": 3,
+        "row": 4,
+        "width": 1,
+        "height": 1
+      }
+    }
+  ]
+}
