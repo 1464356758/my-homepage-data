@@ -25,69 +25,9 @@
       },
       "layout": {
         "col": 0,
-        "row": 0,
-        "width": 2,
-        "height": 2
-      }
-    },
-    {
-      "id": "c2",
-      "type": "image",
-      "content": {
-        "url": "https://picsum.photos/400/300"
-      },
-      "layout": {
-        "col": 2,
-        "row": 0,
-        "width": 2,
-        "height": 2
-      }
-    },
-    {
-      "id": "c3",
-      "type": "web",
-      "content": {
-        "url": "https://example.com"
-      },
-      "layout": {
-        "col": 0,
         "row": 2,
         "width": 2,
-        "height": 3
-      }
-    },
-    {
-      "id": "c4",
-      "type": "video",
-      "content": {
-        "bilibiliUrl": "https://www.bilibili.com/video/BV19k5y6pELP/?spm_id_from=333.1007.tianma.1-3-3.click",
-        "url": "https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/41/19/38306381941/38306381941-1-192.mp4?e=ig8euxZM2rNcNbRahwdVhwdlhWuVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&trid=4d0357454fc44f3cb4a37f98d658785h&nbs=1&gen=playurlv3&os=08hbv&mid=0&uipk=5&deadline=1779294667&og=hw&oi=1697279245&upsig=7997f6e88255a477ce422f753a882366&uparams=e,platform,trid,nbs,gen,os,mid,uipk,deadline,og,oi&bvc=vod&nettype=0&bw=1369947&buvid=&build=0&dl=0&f=h_0_0&agrr=0&orderid=0,1",
-        "title": "封神了！4月全球剧集红榜新鲜出炉！",
-        "poster": "https://i2.hdslb.com/bfs/archive/944bb6519081a873bb0aed001ea8386435113971.jpg",
-        "lastResolved": 1779287471037
-      },
-      "layout": {
-        "col": 0,
-        "row": 5,
-        "width": 4,
-        "height": 2
-      }
-    },
-    {
-      "id": "c5",
-      "type": "video",
-      "content": {
-        "bilibiliUrl": "https://www.bilibili.com/video/BV1SNXMBiEmg/?spm_id_from=333.1007.tianma.1-2-2.click",
-        "url": "https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/42/75/37025417542/37025417542-1-192.mp4?e=ig8euxZM2rNcNbRHnWdVhwdlhWeHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&os=estgoss&mid=0&deadline=1779383563&gen=playurlv3&og=ali&nbs=1&platform=html5&trid=172abe399770432bb099f26327218d3h&uipk=5&oi=1697279245&upsig=c3c0ae19c5821d9b4a19f9eee44a37c0&uparams=e,os,mid,deadline,gen,og,nbs,platform,trid,uipk,oi&bvc=vod&nettype=0&bw=1593372&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1",
-        "title": "探访莲花创始人的家，环英国自驾解锁王室假期",
-        "poster": "https://i0.hdslb.com/bfs/archive/4c7d7e0b5c66306bda253d0a9ce8954e30c621c9.jpg",
-        "lastResolved": 1779376704794
-      },
-      "layout": {
-        "col": 2,
-        "row": 2,
-        "width": 2,
-        "height": 2
+        "height": 1
       }
     },
     {
@@ -97,52 +37,48 @@
         "text": "新文字灌灌灌灌灌"
       },
       "layout": {
-        "col": 0,
+        "col": 2,
         "row": 12,
         "width": 1,
         "height": 1
       }
     },
     {
-      "id": "c7",
-      "type": "text",
+      "id": "c3",
+      "type": "image",
       "content": {
-        "text": "新文字"
-      },
-      "layout": {
-        "col": 2,
-        "row": 4,
-        "width": 1,
-        "height": 1
-      }
-    },
-    {
-      "id": "c8",
-      "type": "text",
-      "content": {
-        "text": "新文字"
-      },
-      "layout": {
-        "col": 3,
-        "row": 4,
-        "width": 1,
-        "height": 1
-      }
-    },
-    {
-      "id": "c9",
-      "type": "video",
-      "content": {
-        "bilibiliUrl": "https://www.bilibili.com/video/BV1kK4y177d2/?spm_id_from=333.337.search-card.all.click",
-        "url": "https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/40/59/248965940/248965940-1-192.mp4?e=ig8euxZM2rNcNbNBnWdVhwdlhbUHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&oi=1697279245&platform=html5&deadline=1779438496&nbs=1&gen=playurlv3&trid=0c4a08310ef34ea6b5832cbaf152cebh&os=estgoss&og=ali&mid=0&uipk=5&upsig=e9c14a1ce3a3927a5dc4237f293892fa&uparams=e,oi,platform,deadline,nbs,gen,trid,os,og,mid,uipk&bvc=vod&nettype=0&bw=2074395&dl=0&f=h_0_0&agrr=1&buvid=&build=0&orderid=0,1",
-        "title": "风犬少年的天空之追光者MV",
-        "poster": "http://i1.hdslb.com/bfs/archive/f9d90d1862edbbac9e9a18284f35ac5f4be22c90.jpg",
-        "lastResolved": 1779431296913
+        "url": "https://s41.ax1x.com/2026/05/22/pmpmjSI.png"
       },
       "layout": {
         "col": 0,
-        "row": 7,
-        "width": 4,
+        "row": 0,
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": "c4",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmpmx6P.png"
+      },
+      "layout": {
+        "col": 0,
+        "row": 3,
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": "c5",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmpmvlt.png"
+      },
+      "layout": {
+        "col": 2,
+        "row": 0,
+        "width": 2,
         "height": 5
       }
     }
