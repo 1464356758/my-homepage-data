@@ -283,19 +283,6 @@
         "width": 2,
         "height": 3
       }
-    },
-    {
-      "id": "c19",
-      "type": "web",
-      "content": {
-        "url": "https://cloud.seatable.cn/dtable/links/427ff6f42256472aa3e7"
-      },
-      "layout": {
-        "col": 0,
-        "row": 26,
-        "width": 4,
-        "height": 2
-      }
     }
   ]
 }
