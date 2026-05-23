@@ -1,5 +1,132 @@
 {
- 
+  "personalInfo": {
+    "name": "冯配强",
+    "avatar": "https://s41.ax1x.com/2026/05/22/pmppqiT.jpg",
+    "bio": "欢迎来到我的主页。独立开发，零成本部署。",
+    "links": [],
+    "tags": [
+      "Photoshop",
+      "Premiere",
+      "Office",
+      "剪映",
+      "按键精灵",
+      "学习能力",
+      "整合能力",
+      "优化能力",
+      "c1驾驶证",
+      "电工证"
+    ],
+    "email": "1464356758@qq.com",
+    "phone": "18033150689",
+    "wechat": "18033150689",
+    "resumeUrl": "https://www.kdocs.cn/l/cvjzqhnb3S2i"
+  },
+  "cards": [
+    {
+      "id": "c1",
+      "type": "text",
+      "content": {
+        "text": "在AI出现之前系统学习过PS，并持续跟进行业变化。如今结合AI，可以更高效地完成创作。\nPS制作流程：Camera Raw 调整肤色、曝光与清晰度；液化微调五官和脸型；高斯模糊柔化皮肤；单独细化眼睛高光、嘴唇颜色和鼻梁明暗；最后增加少量油画质感。\nAI提示词：超写实、8K、高端写真、电影级光影、细腻肤质、专业摄影、唯美氛围。"
+      },
+      "layout": {
+        "col": 0,
+        "row": 2,
+        "width": 2,
+        "height": 1
+      }
+    },
+    {
+      "id": "c6",
+      "type": "text",
+      "content": {
+        "text": "PS 转手绘处理：基础修图 → 提取线稿 → 添加轻微笔触纹理 → 图层融合 → 整体调色，营造自然、不夸张的手绘质感。\nAI提示词：水墨简笔画风 + 水彩泼墨 + 极简人像插画 + 保留人物辨识度 + 红色玫瑰元素 + 留白构图 + 黑灰线稿 + 鲜艳红色点缀 + 高级时尚海报风 + 手绘签名融合 + 中国风艺术感。"
+      },
+      "layout": {
+        "col": 2,
+        "row": 7,
+        "width": 2,
+        "height": 1
+      }
+    },
+    {
+      "id": "c5",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmpMQAS.png"
+      },
+      "layout": {
+        "col": 0,
+        "row": 0,
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": "c5",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmpMltg.png"
+      },
+      "layout": {
+        "col": 0,
+        "row": 3,
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": "c5",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmpM1hQ.png"
+      },
+      "layout": {
+        "col": 2,
+        "row": 0,
+        "width": 2,
+        "height": 5
+      }
+    },
+    {
+      "id": "c6",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmpGwAx.png"
+      },
+      "layout": {
+        "col": 2,
+        "row": 5,
+        "width": 2,
+        "height": 2
+      }
+    },
+    {
+      "id": "c7",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmp856J.png"
+      },
+      "layout": {
+        "col": 0,
+        "row": 5,
+        "width": 2,
+        "height": 5
+      }
+    },
+    {
+      "id": "c8",
+      "type": "image",
+      "content": {
+        "url": "https://s41.ax1x.com/2026/05/22/pmpG0N6.png"
+      },
+      "layout": {
+        "col": 2,
+        "row": 8,
+        "width": 2,
+        "height": 2
+      }
+    },
+
     {
       "id": "c9",
       "type": "video",
