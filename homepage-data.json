@@ -131,7 +131,7 @@
       "type": "video",
       "content": {
         "bilibiliUrl": "https://www.bilibili.com/video/BV1kK4y177d2/?spm_id_from=333.337.search-card.all.click&vd_source=288413c367426ccedb98f32207002826",
-        "url": "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/40/59/248965940/248965940-1-192.mp4?e=ig8euxZM2rNcNbNBnWdVhwdlhbUHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&deadline=1779451771&nbs=1&mid=0&oi=1385955528&gen=playurlv3&os=estgoss&og=ali&uipk=5&trid=22b71f886e454f63868a4d54b275148O&upsig=f75b444f6dd1b7fad03d07f55f7fbf98&uparams=e,platform,deadline,nbs,mid,oi,gen,os,og,uipk,trid&bvc=vod&nettype=1&bw=2074395&agrr=1&buvid=&build=7330300&dl=0&f=O_0_0&orderid=0,3",
+        "url": "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/40/59/248965940/248965940-1-192.mp4?e=ig8euxZM2rNcNbNBnWdVhwdlhbUHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&deadline=1779560961&mid=0&os=estgoss&og=ali&nbs=1&uipk=5&oi=2067284620&platform=html5&trid=5591934c554244a595b84b3f69647afO&gen=playurlv3&upsig=983c711deafc4b38ee05cf5587ee0488&uparams=e,deadline,mid,os,og,nbs,uipk,oi,platform,trid,gen&bvc=vod&nettype=1&bw=2074395&f=O_0_0&agrr=0&buvid=&build=7330300&dl=0&orderid=0,3",
         "title": "风犬少年的天空之追光者MV",
         "poster": "https://i1.hdslb.com/bfs/archive/f9d90d1862edbbac9e9a18284f35ac5f4be22c90.jpg",
         "lastResolved": 1779445408227
@@ -193,7 +193,7 @@
         "bilibiliUrl": "https://www.bilibili.com/video/BV1pV411v71U/?spm_id_from=333.1387.upload.video_card.click&vd_source=288413c367426ccedb98f32207002826",
         "url": "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/32/05/304100532/304100532-1-192.mp4?e=ig8euxZM2rNcNbNM7zdVhwdlhbKahwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&oi=144233936&platform=html5&mid=0&deadline=1779453739&nbs=1&trid=7ca1f99348a3454e9a566e7ddab2540O&uipk=5&gen=playurlv3&os=cosbv&og=hw&upsig=02c78bb83a7efeeb78ea6b611fe349da&uparams=e,oi,platform,mid,deadline,nbs,trid,uipk,gen,os,og&bvc=vod&nettype=1&bw=1977139&f=O_0_0&agrr=1&buvid=&build=7330300&dl=0&orderid=0,3",
         "title": "错位时空的周星驰。你觉得他有没有遗憾呢？",
-        "poster": "http://i0.hdslb.com/bfs/archive/dbfca1ab899bcda540b599597c5160d8bdd6eec8.jpg",
+        "poster": "https://i0.hdslb.com/bfs/archive/dbfca1ab899bcda540b599597c5160d8bdd6eec8.jpg",
         "lastResolved": 1779446540199
       },
       "layout": {
@@ -249,13 +249,39 @@
       }
     },
     {
-      "id": "c17",
+      "id": "c20",
+      "type": "text",
+      "content": {
+        "text": "独立开发，零成本部署。\n前端展示：页面部署在 Netlify，自动生成访问链接。\n数据管理：个人信息和内容卡片托管于 GitHub 开源仓库，修改后即时同步。\n视频解析：通过 Render 后端服务，调用视频解析 API 获取临时播放链接，突破直链时效限制。\n防休眠机制：使用 UptimeRobot 每 5 分钟唤醒 Render 服务器，避免冷启动延迟。\n链接保鲜：通过 Checkly 浏览器定时任务，提前刷新视频缓存，新用户打开即看最新内容。\n最终效果：无论多久没访问，页面都能秒开，视频链接始终有效，大幅解决“长时间再打开加载慢”的问题。"
+      },
+      "layout": {
+        "col": 0,
+        "row": 33,
+        "width": 4,
+        "height": 1
+      }
+    },
+    {
+      "id": "c20",
+      "type": "web",
+      "content": {
+        "url": "https://lambent-gecko-076de5.netlify.app/"
+      },
+      "layout": {
+        "col": 0,
+        "row": 29,
+        "width": 4,
+        "height": 2
+      }
+    },
+    {
+      "id": "c20",
       "type": "video",
       "content": {
-        "bilibiliUrl": "https://v.douyin.com/tFdHtLNB6cs",
-        "url": "https://v11-cold.douyinvod.com/0af1caa8caaaeef593923ec829ea8d77/6a10ae74/video/tos/cn/tos-cn-ve-15/oAEAOWFulIDTV5QAbfVgfWExp5Ev98OANFnWaB/?a=6383&br=4427&bt=4427&btag=c0000e00008000&cd=0%7C0%7C0%7C3&ch=26&cquery=100z_100o_100w_100B_100x&cr=3&cs=0&cv=1&dr=0&ds=4&dy_q=1779467323&feature_id=37f92ebd2877ae8e7eba995d406c5150&ft=LjhJEL998xztuo0mo0P5XEhX.xiXZ~8T9VJE3sZ3jCPD-Ipz&is_ssr=1&l=20260523002843518ADA2BC0B4BA5C3899&lr=all&mime_type=video_mp4&qs=0&rc=ZWg5NDpnOWQ7OjdpO2U1NEBpamx2ZHY5cm9wOTMzNGkzM0BeLl8yYmFeXjUxNC42Y2BeYSNzYmxwMmRjYXBhLS1kLWFzcw%3D%3D",
-        "title": "“携鲜花弓箭赴一场春日之约.” #转场 #万物皆可粉嘟嘟  #粉嘟嘟ai创意大赛",
-        "poster": "https://p95-bj-sign.douyinpic.com/tos-cn-i-0813c001/oEmWufgALEAa3AzpAWAsIZE5fbACgCANoDt9uF~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780758000&x-signature=gv66Y21URx6lZD2Yx1DE0Bwx04w%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=aweme_video&l=20260523230523D5CFD84DEE07ABE75C6D&time=1773758184"
+        "bilibiliUrl": "https://v.douyin.com/AT25EANncy8/",
+        "url": "https://v26-dy.ixigua.com/14b3838120249b674ce25aaf11dd1d6f/6a11f003/video/tos/cn/tos-cn-ve-15c000-ce/oABc9fDItyifBC0k2FlVnZLEgIoFQApaEIwAF0/?a=0&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=1218&bt=1218&cs=0&ds=3&ft=aT_7TQQqUYqfJEZPo0OW_QYaUqiXeDTT9VJEo~1cdbPD-Ipz&mime_type=video_mp4&qs=0&rc=aGg5NWgzOmc5ZDo7ZjdkZEBpM3Q7ZG45cmw1OTMzbGkzNUBhLS1hYl5iNTMxXzNiMTQzYSMvbmouMmRzLW9hLS1kLTRzcw%3D%3D&btag=80000e00008000&cquery=106H&dy_q=1779556841&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260524012041867059D5E44A0C6D4268",
+        "title": "#AI楼阁红妆回眸录 #随变ai随便玩",
+        "poster": "https://p95-sz-sign.douyinpic.com/tos-cn-i-0813c000-ce/owFtnIMQDmSBiCQnwEfJAkAAWF81ApEAeqA9Qs~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780765200&x-signature=vanQj5TnS40XUMj7zYGZDLwd5RE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=aweme_video&l=202605240120401AF55403B67A4DB2FB91"
       },
       "layout": {
         "col": 0,
@@ -265,45 +291,19 @@
       }
     },
     {
-      "id": "c18",
+      "id": "c20",
       "type": "video",
       "content": {
-        "bilibiliUrl": "https://v.douyin.com/h22IknztISQ",
-        "url": "https://v26-cold.douyinvod.com/42a7e546d298550c9ade80433593f431/6a10ae8b/video/tos/cn/tos-cn-ve-15c000-ce/o0QhIgJA7TE4AeGTiL3aee3nsylBbICgQRUQDH/?a=6383&br=819&bt=819&btag=c0000e00008000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1779467345&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&ft=LjhJEL998xztuo0mo0P5XEhX.xiXYl8T9VJE3sZ3jCPD-Ipz&is_ssr=1&l=20260523002905C8ECC7994915E7720584&lr=all&mime_type=video_mp4&qs=0&rc=aGg3Zmg7MzM3aDU5NzM7NUBpM3k3ZHM5cm1kOjMzbGkzNUAxLjNiYWFhXmIxLy9iNi0xYSNfNWJgMmRjYGxhLS1kLTVzcw%3D%3D",
-        "title": "#AI猫咪餐馆买单乌龙 #随变app #萌宠出道计划 #大橘养成记 #猫猫我啊脑瓜子嗡嗡的",
-        "poster": "https://p95-sz-sign.douyinpic.com/tos-cn-p-0015c000-ce/oAeTWR7fBpG4EwtIMpLybIUoJs0nQgDlUeBQiA~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780758000&x-signature=ce3XA0cOCfgL2Kv%2Bfvdpoain11k%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=aweme_video&l=20260523230421E59E2E21B2B67FE5946B"
+        "bilibiliUrl": "https://v.douyin.com/Ifp769yv4A8",
+        "url": "https://v26-default.365yg.com/7dc26ba9fbf815b90e3a67f2f9a158d0/6a120f91/video/tos/cn/tos-cn-ve-15c000-ce/oUyBSEMDgyECLSAFfbU7JgAnQ7jLjIIeepdQm8/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1506&bt=1506&cs=0&ds=3&ft=rVWEerwwZR7Gs0Po0PDS6kwc3RZtG~OWWU9eFVcTJEr12nzXT&mime_type=video_mp4&qs=0&rc=O2Q5aDdnOjM8ZDM4aDhmaUBpM3Nwc205cmR4OzMzbGkzNEAzMTFjNWNiXjMxYjUvNS9hYSMwLWByMmRjNjVhLS1kLWJzcw%3D%3D&btag=c0000e00008000&cquery=100B_100x_100z_100o_100w&dy_q=1779557717&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260524013517C4087EDED33C28E5F27F",
+        "title": "妙笔生花去我梦。 ",
+        "poster": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQ91jJJlSAEzBeypwIiGC5eBUflZgRPiEAC4RI~tplv-dy-360p.jpeg?lk3s=138a59ce&x-expires=1780765200&x-signature=NhY7wz03%2Btx2SoRLgMA4RXe%2FAxQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=origin_cover&biz_tag=pcweb_cover&l=20260524013517C4087EDED33C28E5F27F"
       },
       "layout": {
         "col": 2,
         "row": 22,
         "width": 2,
         "height": 3
-      }
-    },
-    {
-      "id": "c19",
-      "type": "web",
-      "content": {
-        "url": "https://radiant-phoenix-313434.netlify.app/"
-      },
-      "layout": {
-        "col": 0,
-        "row": 29,
-        "width": 4,
-        "height": 3
-      }
-    },
-    {
-      "id": "c20",
-      "type": "text",
-      "content": {
-        "text": "前端展示：页面部署在 Netlify，自动生成访问链接。\n数据管理：个人信息和内容卡片托管于 GitHub 开源仓库，修改后即时同步。\n视频解析：通过 Render 后端服务，调用视频解析 API 获取临时播放链接，突破直链时效限制。\n防休眠机制：使用 UptimeRobot 每 5 分钟唤醒 Render 服务器，避免冷启动延迟。\n链接保鲜：通过 Checkly 浏览器定时任务，提前刷新视频缓存，新用户打开即看最新内容。\n最终效果：无论多久没访问，页面都能秒开，视频链接始终有效，大幅解决“长时间再打开加载慢”的问题。"
-      },
-      "layout": {
-        "col": 0,
-        "row": 32,
-        "width": 4,
-        "height": 1
       }
     }
   ]
