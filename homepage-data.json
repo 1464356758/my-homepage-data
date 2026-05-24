@@ -292,7 +292,7 @@
     },
     {
       "id": "c20",
-     "url": "https://example.com/broken.mp4"
+      "type": "video",
       "content": {
         "bilibiliUrl": "https://v.douyin.com/Ifp769yv4A8",
         "url": "https://v26-default.365yg.com/7dc26ba9fbf815b90e3a67f2f9a158d0/6a120f91/video/tos/cn/tos-cn-ve-15c000-ce/oUyBSEMDgyECLSAFfbU7JgAnQ7jLjIIeepdQm8/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1506&bt=1506&cs=0&ds=3&ft=rVWEerwwZR7Gs0Po0PDS6kwc3RZtG~OWWU9eFVcTJEr12nzXT&mime_type=video_mp4&qs=0&rc=O2Q5aDdnOjM8ZDM4aDhmaUBpM3Nwc205cmR4OzMzbGkzNEAzMTFjNWNiXjMxYjUvNS9hYSMwLWByMmRjNjVhLS1kLWJzcw%3D%3D&btag=c0000e00008000&cquery=100B_100x_100z_100o_100w&dy_q=1779557717&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260524013517C4087EDED33C28E5F27F",
